@@ -1,5 +1,5 @@
 ## Objective
-Render exchange rate between 2 currencies for a specific amount
+Render exchange rate between 2 currencies for a specific amount with pure JavaScript, HTML, CSS.
 
 ## Specifications
 - Display UI with 2 selected currencies and 2 amounts (input & output)
