@@ -1,3 +1,5 @@
+# Exchange Rate Calculator with VanillaJS
+
 ## Objective
 Render exchange rate between 2 currencies for a specific amount with pure JavaScript, HTML, CSS.
 
